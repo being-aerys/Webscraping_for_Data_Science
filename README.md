@@ -1,2 +1,2 @@
 # Webscraping_for_Data_Science
-This repo covers different methods available to scrape data for data analytics and data science.
+There are two main ways to scrape data from a website: either use an API if available or extract data from the html content of the web page.
