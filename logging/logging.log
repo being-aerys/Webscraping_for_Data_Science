@@ -1,0 +1,64 @@
+2023-07-10 19:45:50 INFO total time take to retrieve all data: 0.71169114112854 seconds.
+2023-07-10 19:45:50 INFO Year: 1996-97
+2023-07-10 19:45:50 INFO Season Type: Preseason
+2023-07-10 19:45:50 INFO Season Type: Regular Season
+2023-07-10 19:45:50 INFO Season Type: Playoffs
+2023-07-10 19:45:51 INFO Season Type: All-Star
+2023-07-10 19:45:51 INFO Season Type: Play In
+2023-07-10 19:45:52 INFO Year: 1997-98
+2023-07-10 19:45:52 INFO Season Type: Preseason
+2023-07-10 19:45:52 INFO Season Type: Regular Season
+2023-07-10 19:45:53 INFO Season Type: Playoffs
+2023-07-10 19:45:53 INFO Season Type: All-Star
+2023-07-10 19:45:53 INFO Season Type: Play In
+2023-07-10 19:45:54 INFO Year: 1998-99
+2023-07-10 19:45:54 INFO Season Type: Preseason
+2023-07-10 19:45:54 INFO Season Type: Regular Season
+2023-07-10 19:45:55 INFO Season Type: Playoffs
+2023-07-10 19:45:55 INFO Season Type: All-Star
+2023-07-10 19:45:56 INFO Season Type: Play In
+2023-07-10 19:45:56 INFO Year: 1999-00
+2023-07-10 19:45:56 INFO Season Type: Preseason
+2023-07-10 19:45:56 INFO Season Type: Regular Season
+2023-07-10 19:45:57 INFO Season Type: Playoffs
+2023-07-10 19:45:57 INFO Season Type: All-Star
+2023-07-10 19:45:58 INFO Season Type: Play In
+2023-07-10 19:45:58 INFO Year: 2000-01
+2023-07-10 19:45:58 INFO Season Type: Preseason
+2023-07-10 19:45:59 INFO Season Type: Regular Season
+2023-07-10 19:45:59 INFO Season Type: Playoffs
+2023-07-10 19:45:59 INFO Season Type: All-Star
+2023-07-10 19:46:00 INFO Season Type: Play In
+2023-07-10 19:46:00 INFO Year: 2002-03
+2023-07-10 19:46:00 INFO Season Type: Preseason
+2023-07-10 19:46:01 INFO Season Type: Regular Season
+2023-07-10 19:46:01 INFO Season Type: Playoffs
+2023-07-10 19:46:02 INFO Season Type: All-Star
+2023-07-10 19:46:02 INFO Season Type: Play In
+2023-07-10 19:46:03 INFO Year: 2003-04
+2023-07-10 19:46:03 INFO Season Type: Preseason
+2023-07-10 19:46:03 INFO Season Type: Regular Season
+2023-07-10 19:46:03 INFO Season Type: Playoffs
+2023-07-10 19:46:04 INFO Season Type: All-Star
+2023-07-10 19:46:04 INFO Season Type: Play In
+2023-07-10 19:46:06 INFO Year: 2004-05
+2023-07-10 19:46:06 INFO Season Type: Preseason
+2023-07-10 19:46:06 INFO Season Type: Regular Season
+2023-07-10 19:46:06 INFO Season Type: Playoffs
+2023-07-10 19:46:07 INFO Season Type: All-Star
+2023-07-10 19:46:07 INFO Season Type: Play In
+2023-07-10 19:46:08 INFO Year: 2005-06
+2023-07-10 19:46:08 INFO Season Type: Preseason
+2023-07-10 19:46:08 INFO Season Type: Regular Season
+2023-07-10 19:46:09 INFO Season Type: Playoffs
+2023-07-10 19:46:09 INFO Season Type: All-Star
+2023-07-10 19:46:09 INFO Season Type: Play In
+2023-07-10 19:46:10 INFO Year: 2006-07
+2023-07-10 19:46:10 INFO Season Type: Preseason
+2023-07-10 19:46:10 INFO Season Type: Regular Season
+2023-07-10 19:46:11 INFO Season Type: Playoffs
+2023-07-10 19:46:11 INFO Season Type: All-Star
+2023-07-10 19:46:12 INFO Season Type: Play In
+2023-07-10 19:46:12 INFO total time taken: 22.3494610786438 seconds.
+2023-07-10 19:47:22 INFO Total records retrieved: 27050
+2023-07-10 19:47:28 INFO Data successfully saved as: nba_players_info_season_1997_to_2007.xlsx
